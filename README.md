@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Parinay-Patel
-- 👀 I’m interested in software developing
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in Full Stack Web Development
+-    I'm Expert in C, C++, Frontend web development(HTML + CSS + Bootstrap + JS) 
+- 🌱 I’m currently learning Backend web development(Python + Django + SQL + MongoDB), Latex, Excel, Linux.
 
 <!---
 Parinay-Patel/Parinay-Patel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
