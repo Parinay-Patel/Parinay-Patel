@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parinay-Patel
 - 👀 I’m interested in Full Stack Web Development
--    I'm Expert in C, C++, Frontend web development(HTML + CSS + Bootstrap + JS) 
+- 🌱 I'm Expert in C, C++, Frontend web development(HTML + CSS + Bootstrap + JS) 
 - 🌱 I’m currently learning Backend web development(Python + Django + SQL + MongoDB), Latex, Excel, Linux.
 
 <!---
